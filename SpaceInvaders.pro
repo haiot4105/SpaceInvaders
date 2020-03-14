@@ -31,7 +31,8 @@ SOURCES += \
         gamer.cpp \
         invader.cpp \
         main.cpp \
-        mainwindow.cpp
+        mainwindow.cpp \
+        paintarea.cpp
 
 HEADERS += \
         bullet.h \
@@ -39,7 +40,8 @@ HEADERS += \
         gameobject.h \
         gamer.h \
         invader.h \
-        mainwindow.h
+        mainwindow.h \
+        paintarea.h
 
 FORMS += \
         mainwindow.ui
